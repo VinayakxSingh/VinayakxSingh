@@ -47,8 +47,11 @@ GraphQL | Rust | Kubernetes | Flutter
 💼 LinkedIn: Vinayak Singh
 
 📧 Email: vinayaksinghforyou@gmail.com
+## 📊 GitHub Stats  
+![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayakxSingh&show_icons=true&theme=radical&count_private=true)
 
-📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakxSingh&layout=compact&theme=radical)
+
 
 ⚡ Fun Facts
 🧳 I love traveling and exploring new places around India.
