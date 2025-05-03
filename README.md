@@ -1,61 +1,70 @@
-👋 Hi, I'm Vinayak Singh
-Full Stack Developer | React Enthusiast | Builder of Scalable Web Apps
-I’m a passionate and versatile Full Stack Developer who loves bringing ideas to life through clean, efficient code. With a strong foundation in front-end and back-end technologies, I specialize in building fast, responsive, and user-friendly web applications.
+# 👋 Hi, I'm Vinayak Singh  
+**Full Stack Developer | React Specialist | Creator of Scalable Digital Solutions**
 
-💡 What I Do
-🧠 I build full-stack web apps using modern frameworks and tools.
-⚙️ I write scalable, maintainable code with a focus on performance and UX.
-🚀 I’m job-ready and eager to contribute to meaningful projects.
+I’m a passionate and results-driven Full Stack Developer who thrives on transforming ideas into high-performance web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building fast, responsive, and user-centric platforms that scale.
 
-Open to full-time roles, freelance gigs, or exciting collaborations — remote or on-site.
+---
 
-🛠️ Tech Stack
-💻 Front-End
-React ⚛️ | Next.js 🌐 | Vue.js
+## 💼 What I Do
+- 🧠 Build full-stack web apps using modern JavaScript frameworks and cloud platforms  
+- ⚙️ Write clean, scalable, and maintainable code with performance and UX at the core  
+- 🚀 Collaborate with teams and clients to deliver meaningful, business-driven solutions  
+- 💬 Open to **full-time roles**, **freelance projects**, or **collaborative ventures** — remote or on-site  
 
-JavaScript (ES6+) | TypeScript
+---
 
-Tailwind CSS 💨 | Chakra UI 🌈 | HTML5, CSS3, SASS
+## 🛠️ Tech Stack
 
-🔙 Back-End
-Node.js | Express.js
+### 💻 Front-End  
+React.js ⚛️ | Next.js 🌐 | Vue.js  
+JavaScript (ES6+) | TypeScript  
+Tailwind CSS 💨 | Chakra UI 🌈 | HTML5, CSS3, SASS  
 
-Firebase (Auth + Realtime DB)
+### 🔙 Back-End  
+Node.js | Express.js  
+Firebase (Auth + Realtime DB)  
+MongoDB | MySQL  
 
-MongoDB | MySQL
+### ⚙️ Tools & Platforms  
+Git & GitHub | Vite | Postman  
+Netlify | Vercel  
+Sanity CMS | Figma | VS Code  
 
-🧰 Tools & Workflow
-Git | GitHub | Vite | Postman
+---
 
-Netlify | Vercel
+## 📌 Featured Projects
 
-Figma | VS Code | Sanity CMS
+### 💄 [HIX Cosmetics](https://github.com/VinayakxSingh/HIX)  
+Stylish cosmetics web app with Firebase Auth, animations, product filtering, and responsive UI.
 
-📌 Featured Projects
-💄 HIX Cosmetics — Stylish cosmetics web app with Firebase Auth and API-based product listings.
+### ⌨️ [Todoist Clone](https://github.com/VinayakxSingh/Todoist)  
+A refined clone of Todoist.com with added features and Firebase backend integration.
 
-⌨️ Todoist :-clone of https://www.todoist.com/ with added features 
+### 📚 Instructor Dashboard  
+An internal admin dashboard featuring Firebase-powered CRUD, filtering, simulated auth, and UI controls.
 
-🎓 Instructor Dashboard — Internal tool with Firebase-powered CRUD, simulated auth, and filtering/sorting features.
+---
 
-🌱 Currently Learning
-GraphQL | Rust | Kubernetes | Flutter
+## 🌱 Currently Exploring  
+GraphQL | Rust | Kubernetes | Flutter  
 
-📫 Let’s Connect
-🌐 Portfolio: vinayaksingh.vercel.app
+---
 
-💼 LinkedIn: Vinayak Singh
+## 📫 Let’s Connect  
+🌐 [Portfolio Website](https://vinayaksingh.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/vinayaksingh)  
+📧 Email: vinayaksinghforyou@gmail.com  
 
-📧 Email: vinayaksinghforyou@gmail.com
+---
+
 ## 📊 GitHub Stats  
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayakxSingh&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakxSingh&layout=compact&theme=radical)
+![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayakxSingh&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakxSingh&layout=compact&theme=radical)  
 
+---
 
-⚡ Fun Facts
-🧳 I love traveling and exploring new places around India.
-
-🎮 Competitive gaming is my go-to stress buster.
-
-📚 I enjoy reading about tech trends, startups, and future-driven innovations.
+## ⚡ Fun Facts  
+🧳 I love traveling and exploring new places across India  
+🎮 Competitive gaming is my go-to stress buster  
+📖 I enjoy reading about tech trends, startups, and future-driven innovations  
