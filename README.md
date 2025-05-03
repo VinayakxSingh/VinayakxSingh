@@ -1,70 +1,82 @@
-# 👋 Hi, I'm Vinayak Singh  
-**Full Stack Developer | React Specialist | Creator of Scalable Digital Solutions**
+# Hi, I'm Vinayak Singh
 
-I’m a passionate and results-driven Full Stack Developer who thrives on transforming ideas into high-performance web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building fast, responsive, and user-centric platforms that scale.
+**Full Stack Developer | React Specialist | Builder of Scalable Digital Solutions**
 
----
-
-## 💼 What I Do
-- 🧠 Build full-stack web apps using modern JavaScript frameworks and cloud platforms  
-- ⚙️ Write clean, scalable, and maintainable code with performance and UX at the core  
-- 🚀 Collaborate with teams and clients to deliver meaningful, business-driven solutions  
-- 💬 Open to **full-time roles**, **freelance projects**, or **collaborative ventures** — remote or on-site  
+I am a results-driven Full Stack Developer with a strong track record of transforming ideas into high-performance web applications. With expertise in both front-end and back-end technologies, I build fast, responsive, and user-centric platforms that scale effectively.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
 
-### 💻 Front-End  
-React.js ⚛️ | Next.js 🌐 | Vue.js  
+- Develop full-stack web applications using modern JavaScript frameworks and cloud platforms
+- Write clean, scalable, and maintainable code with performance and user experience at the core
+- Collaborate with teams and clients to deliver impactful, business-driven solutions
+- Open to full-time roles, freelance projects, or collaborative ventures-remote or on-site
+
+---
+
+## Technical Skills
+
+### Front-End
+React.js | Next.js | Vue.js  
 JavaScript (ES6+) | TypeScript  
-Tailwind CSS 💨 | Chakra UI 🌈 | HTML5, CSS3, SASS  
+Tailwind CSS | Chakra UI | HTML5 | CSS3 | SASS
 
-### 🔙 Back-End  
+### Back-End
 Node.js | Express.js  
-Firebase (Auth + Realtime DB)  
-MongoDB | MySQL  
+Firebase (Authentication, Realtime Database)  
+MongoDB | MySQL
 
-### ⚙️ Tools & Platforms  
+### Tools & Platforms
 Git & GitHub | Vite | Postman  
 Netlify | Vercel  
-Sanity CMS | Figma | VS Code  
+Sanity CMS | Figma | VS Code
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 💄 [HIX Cosmetics](https://github.com/VinayakxSingh/HIX)  
-Stylish cosmetics web app with Firebase Auth, animations, product filtering, and responsive UI.
+- **[HIX Cosmetics](https://github.com/VinayakxSingh/HIX):**  
+  Cosmetics web application with Firebase authentication, animations, product filtering, and responsive UI.
 
-### ⌨️ [Todoist Clone](https://github.com/VinayakxSingh/Todoist)  
-A refined clone of Todoist.com with added features and Firebase backend integration.
+- **[Essmey.in](https://github.com/VinayakxSingh/Essmey) | [Live Site](https://essmey.in):**  
+  Modern e-commerce platform using Sanity CMS, Firebase, Razorpay, and Tailwind CSS. Fully responsive and optimized for performance.
 
-### 📚 Instructor Dashboard  
-An internal admin dashboard featuring Firebase-powered CRUD, filtering, simulated auth, and UI controls.
+- **[Besson Landing Page](https://github.com/VinayakxSingh/besson_landing_page) | [Live Site](https://thebessongroup.com):**  
+  Professional landing page for The Besson Group, built with React and styled components.
 
----
+- **[Todoist Clone](https://github.com/VinayakxSingh/Todoist):**  
+  Feature-rich clone of Todoist.com with Firebase backend integration.
 
-## 🌱 Currently Exploring  
-GraphQL | Rust | Kubernetes | Flutter  
+- **Instructor Dashboard:**  
+  Internal admin dashboard with Firebase-powered CRUD, filtering, simulated authentication, and UI controls.
 
----
-
-## 📫 Let’s Connect  
-🌐 [Portfolio Website](https://vinayaksingh.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/vinayaksingh)  
-📧 Email: vinayaksinghforyou@gmail.com  
+- **[Portfolio Website](https://vinayaksingh.vercel.app):**  
+  Explore more of my work, case studies, and contact information on my personal portfolio.
 
 ---
 
-## 📊 GitHub Stats  
+## Currently Exploring
+
+GraphQL | Rust | Kubernetes | Flutter
+
+---
+
+## Let's Connect
+
+- Portfolio: [vinayaksingh.vercel.app](https://vinayaksingh.vercel.app)
+- LinkedIn: [linkedin.com/in/vinayaksingh](https://www.linkedin.com/in/vinayaksingh)
+- Email: vinayaksinghforyou@gmail.com
+
+---
+
+## GitHub Stats
 
 ![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayakxSingh&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakxSingh&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakxSingh&layout=compact&theme=radical)
 
 ---
 
-## ⚡ Fun Facts  
-🧳 I love traveling and exploring new places across India  
-🎮 Competitive gaming is my go-to stress buster  
-📖 I enjoy reading about tech trends, startups, and future-driven innovations  
+## About Me
+
+I have a keen interest in technology trends, startups, and scalable software solutions. Outside of work, I enjoy traveling across India, competitive gaming, and reading about future-driven innovations.
